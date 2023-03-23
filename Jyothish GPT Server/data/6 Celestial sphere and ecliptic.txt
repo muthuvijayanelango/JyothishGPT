@@ -1,0 +1,32 @@
+The concept of Celestial sphere, Ecliptic, Equinox, Solstice, declination, right accession are discussed here.
+The fundamental level of astronomy knowledge is very important for a good astrologer. 
+If you know astronomy When you do calculations to cast a horoscope you will definitely grasp the calculations very quickly.
+The size of human is negligible in front of the universe. In fact, you have to travel very far to physically see the entire solar system.
+When we observe and understand the entire solar system from here we need to have a good imagination skill
+First let us understand what is ecliptic and ecliptic plane. The Sun is at the center of our solar system.
+The Earth revolves around the Sun and the Moon revolves around the Earth.
+The path in which the Earth revolves around the sun is called the ecliptic and all other planet is also revolving around the sun in the ecliptic plane.
+The other planets in the solar system such as Mercury, Venus, Mars, Jupiter, and Saturn are revolving around the sun is called ecliptic plane.
+Now let us understand how we observe the planets and stars in our solar system from the earth.
+To observe all the planets from Earth, we are drawing an imaginary sphere with a huge diameter and this is called celestial sphere.
+The Celestial Sphere is so huge it can envelop all the planets inside our solar system. Please remember that the celestial sphere is a imaginary sphere. 
+The center line of the earth is called equator and as we project this line in the celestial sphere we get the celestial equator and meets at the North Pole of Earth.
+The otherside is the South Pole of Earth and as we project this north and south pole we get north celestial pole and south celestial pole. 
+As I mentioned before, the Earth revolves around the sun in ecliptic.
+You remember right? when we view from here.
+When viewed from the Earth the Sun travels in the ecliptic path. The Earth is tilted 23.5 degrees and because of this tilt the celestial equator
+and the ecliptic are off by 23.5 degrees.
+Now to locate any object in the Earth we need at least two coordinates.
+For example if someone asked me where I am currently located I would give them at least two coordinates since I am currently located in Coimbatore, India.
+I would tell them I am located approximately at 11 degree north & 77 degrees east. so anyone living in any part of the world will be able to locate my place with this coordinates.
+Similarly to locate any object in the space we need at least two coordinates and to locate any object in the space we used to coordinates called right accession and declination.
+Before going to right accession and let me tell you what is vernal equinox.
+The path of the ecliptic and celestial equator intersects at two points and these two points are called vernal equinox and autumnal equinox. Since the tilt of Earth
+at Equinox point is zero the day and night will be equal at this point.
+The vernal equinox falls on March 21st in which the day and night are equal and the autumnal equinox falls on September 23 in which the again the day and night are equal. 
+Now the right accession is the radial distance from Vernal Equinox to the edge of the celestial sphere.
+The Earth takes 24 hours to complete self-revolution, so the time taken for any object to come to the same position in celestial equator is 24 hours
+The right accession calculated in the eastern side will be positive and in the western side will be negative.
+The declension at equinox point is. The sun will have a maximum of 23.5 degrees north declination which is called Summer Solstice.
+When sun reached maximum declination of 23.5 south is called Winter Solstice.
+Can you guess the declination of north celestial pole? Yes, It is +90 degree.

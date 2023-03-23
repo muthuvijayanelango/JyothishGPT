@@ -1,0 +1,5 @@
+Time Measurement in Vedic astrology is discussed here. 
+60 vighatis make one Ghati and 60 Ghatis make one day.
+In Vedic period 60 Ghatis make one day and in the modern method 24 hours make one day. So in order to calculate how many Ghatis for one hour we must divide 60 by 24.
+Hence 2.5 Ghatis make one hour and 24 minutes make one Ghati and 24 seconds will make one Vighatis.
+4 minutes is the time taken for Earth to cover the distance between one longitude to the next longitude.

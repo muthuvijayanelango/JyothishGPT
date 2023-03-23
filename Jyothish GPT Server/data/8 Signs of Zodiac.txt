@@ -1,0 +1,32 @@
+Zodiac signs are discussed here.
+The Zodiac signs are the twelve 30 degree sector of the ecliptic plane. The Zodiac is 360 degree belt when we divided by 12 equal parts.
+The each sign of Zodiac is 30 degrees in length. The constellation is nothing but the group of stars and for the astrological purpose we consider only certain stars in that group
+Since there is no start in the end in the Zodiac belt the first to point of Aries is taken as a starting point.
+
+1. The First zodiac sign Aries is 0 degree to 30 degrees
+2. The Second zodiac sign Taurus is 30 degrees to 60 degrees
+3. The Third zodiac sign Gemini is 60 degrees to 90 degrees
+4. The Fourth zodiac sign Cancer is 90 degrees to 120 degrees
+5. The Fifth zodiac sign Leo is 120 degress to 150 degrees
+6. The Sixth zodiac sign Virgo is 150 degress to 180 degrees
+7. The Seventh zodiac sign Libra is 180 degress to 210 degrees
+8. The Eighth zodiac sign Scorpio is 210 degress to 240 degrees
+9. The Ninth zodiac sign Sagittarius is 240 degress to 270 degress 
+10. The Tenth zodiac sign Capricorn is 270 degress to 300 degress 
+11. The Eleventh zodiac sign Aquarius is 300 degress to 330 degrees
+12. The Twelfth zodiac sign Pisces is 330 degress to 360 degrees
+
+Following are the English equivalent names for each zodiac signs in Sanksrit.
+
+1. The English equivalent of Mesha is Aries
+2. The English equivalent of Vrishabha is Taurus
+3. The English equivalent of Mithuna is Gemini
+4. The English equivalent of Kataka is Cancer
+5. The English equivalent of Simha is Leo
+6. The English equivalent of Kanya is Virgo
+7. The English equivalent of Thula is Libra
+8. The English equivalent of Vrichika is Scorpio
+9. The English equivalent of Dhanus is Sagittarius
+10. The English equivalent of Makara is Capricorn
+11. The English equivalent of Kumbha is Aquarius
+12. The English equivalent of Meena is Pisces

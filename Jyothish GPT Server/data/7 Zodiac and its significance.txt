@@ -1,0 +1,13 @@
+Importance of Zodiac is discussed here. 
+To locate at any object in the space we need at least two coordinates and these two coordinates are nothing but right accession and declination.
+But even with these two coordinates locating objects in the space is not as simple as locating a place in the earth.
+Because of the fact that the observing object in the space is at constant motion and the observing point which is the Earth is also in constant motion.
+So when two objects are moving, fixing the location of an object in the space is really a tough task. But with the help of Zodiac, we can easily locate the objects in the space easily.
+The Zodiac is an area of the sky that extends approximately 8 to 9 degrees north or south of the ecliptic. The apparent part of Sun Moon all visible planets from the Earth are within the belt of Zodiac.
+Hence the Zodiac is the best reference frame to locate planets and stars in the space. 
+
+These are some of the important qualities of the zodiac that made it to be the best fit of reference
+1. The size and the distance of the reference frame should be very high. The Zodiac is so big that the size of our solar system is negligible when compared to the size of the zodiac.
+2. The plane of the reference should be same as that of ecliptic. Although the zodiac is 8 to 9 degrees north or south of the ecliptic, compared to the size and distance of the zodiac 8 or 9 degree is negligible
+3. The Earth centric view should cover our entire view through this framework. The Zodiac as reference frame will cover our entire view within the frame. Anyone from any part of the earth will be able to view 
+the position of stars and planet in the same point. 

@@ -1,0 +1,153 @@
+Nakshatras and Pada are discussed here. 
+The sequences of 27 Nakshatras in the zodiac are as follows, 
+The 1st Nakshatra of the zodiac is Ashwini or Aswini
+The 2nd Nakshatra of the zodiac is Bharani or Barani
+The 3rd Nakshatra of the zodiac is Kritika or Krittika
+The 4th Nakshatra of the zodiac is Rohini
+The 5th Nakshatra of the zodiac is Mirgashira or Mrigasira
+The 6th Nakshatra of the zodiac is Aridra or Aardra or Ardra
+The 7th Nakshatra of the zodiac is Punarvasu
+The 8th Nakshatra of the zodiac is Pushyami or Pushya
+The 9th Nakshatra of the zodiac is Ashlesha or Aslesha
+The 10th Nakshatra of the zodiac is Magha
+The 11th Nakshatra of the zodiac is PoorvaFalguni or PurvaPhalguni
+The 12th Nakshatra of the zodiac is UttaraFalguni or UtaraPhaguni
+The 13th Nakshatra of the zodiac is Hasta
+The 14th Nakshatra of the zodiac is Chitra
+The 15th Nakshatra of the zodiac is Swati
+The 16th Nakshatra of the zodiac is Vishaka
+The 17th Nakshatra of the zodiac is Anuradha
+The 18th Nakshatra of the zodiac is Jyesta or Jyestha
+The 19th Nakshatra of the zodiac is Moola
+The 20th Nakshatra of the zodiac is Poorva-Shadha
+The 21st Nakshatra of the zodiac is UttaraShadha or UtaraShadha
+The 22nd Nakshatra of the zodiac is Shravana
+The 23rd Nakshatra of the zodiac is Danishtha or Danista
+The 24th Nakshatra of the zodiac is Shatabhisha
+The 25th Nakshatra of the zodiac is PoorvaBhadra or PurvaBhadrapada
+The 26th Nakshatra of the zodiac is UttaraBhadra or UttaraBhadrapada
+The 27th Nakshatra of the zodiac is Revati or Revathi
+
+Nakshatra padas for Each Zodiac signs(Rashis)are as follows,
+1. The 1st pada of Ashwini Nakshatra is in the zodiac sign Aries(Mesha)
+2. The 2nd pada of Ashwini Nakshatra is in the zodiac sign Aries(Mesha)
+3. The 3rd pada of Ashwini Nakshatra is in the zodiac sign Aries(Mesha)
+4. The 4th pada of Ashwini Nakshatra is in the zodiac sign Aries(Mesha)
+5. The 1st pada of Bharani Nakshatra is in the zodiac sign Aries(Mesha)
+6. The 2nd pada of Bharani Nakshatra is in the zodiac sign Aries(Mesha)
+7. The 3rd pada of Bharani Nakshatra is in the zodiac sign Aries(Mesha)
+8. The 4th pada of Bharani Nakshatra is in the zodiac sign Aries(Mesha)
+9. The 1st pada of Kritika Nakshatra is in the zodiac sign Aries(Mesha)
+10. The 2nd pada of Kritika Nakshatra is in the zodiac sign Taurus(Rishabha)
+11. The 3rd pada of Kritika Nakshatra is in the zodiac sign Taurus(Rishabha)
+12. The 4th pada of Kritika Nakshatra is in the zodiac sign Taurus(Rishabha)
+13. The 1st pada of Rohini Nakshatra is in the zodiac sign Taurus(Rishabha)
+14. The 2nd pada of Rohini Nakshatra in the zodiac sign Taurus(Rishabha)
+15. The 3rd pada of Rohini Nakshatra is in the zodiac sign Taurus(Rishabha)
+16. The 4th pada of Rohini Nakshatra is in the zodiac sign Taurus(Rishabha)
+17. The 1st pada of Mrigshira Nakshatra is in the zodiac sign Taurus(Rishabha)
+18. The 2nd pada of Mrigshira Nakshatra is in the zodiac sign Taurus(Rishabha)
+19. The 3rd pada of Mrigshira Nakshatra is in the zodiac sign Gemini(Mithuna)
+20. The 4th pada of Mrigshira Nakshatra is in the zodiac sign Gemini(Mithuna)
+21. The 1st pada of Ardra(Aardra) Nakshatra is in the zodiac sign Gemini(Mithuna)
+22. The 2nd pada of Ardra(Aardra) Nakshatra is in the zodiac sign Gemini(Mithuna)
+23. The 3rd pada of Ardra(Aardra) Nakshatra is in the zodiac sign Gemini(Mithuna)
+24. The 4th pada of Ardra(Aardra) Nakshatra is in the zodiac sign Gemini(Mithuna)
+25. The 1st pada of Punarvasu Nakshatra is in the zodiac sign Gemini(Mithuna)
+26. The 2nd pada of Punarvasu Nakshatra is in the zodiac sign Gemini(Mithuna)
+27. The 3rd pada of Punarvasu Nakshatra is in the zodiac sign Gemini(Mithuna)
+28. The 4th pada of Punarvasu Nakshatra is in the zodiac sign Cancer(Kataka)
+29. The 1st pada of Pushya Nakshatra is in the zodiac sign Cancer(Kataka)
+30. The 2nd pada of Pushya Nakshatra is in the zodiac sign Cancer(Kataka)
+31. The 3rd pada of Pushya Nakshatra is in the zodiac sign Cancer(Kataka)
+32. The 4th pada of Pushya Nakshatra is in the zodiac sign Cancer(Kataka)
+33. The 1st pada of Ashlesha Nakshatra is in the zodiac sign Cancer(Kataka)
+34. The 2nd pada of Ashlesha Nakshatra is in the zodiac sign Cancer(Kataka)
+35. The 3rd pada of Ashlesha Nakshatra is in the zodiac sign Cancer(Kataka)
+36. The 4th pada of Ashlesha Nakshatra is in the zodiac sign Cancer(Kataka)
+37. The 1st pada of Magha Nakshatra is in the zodiac sign Leo(Simha)
+38. The 2nd pada of Magha Nakshatra is in the zodiac sign Leo(Simha)
+39. The 3rd pada of Magha Nakshatra is in the zodiac sign Leo(Simha)
+40. The 4th pada of Magha Nakshatra is in the zodiac sign Leo(Simha)
+41. The 1st pada of PoorvaFalguni(PoorvaPhalguni or PurvaFalguni or PurvaPhalguni) Nakshatra is in the zodiac ign Leo(Simha)
+42. The 2nd pada of PoorvaFalguni(PoorvaPhalguni or PurvaFalguni or PurvaPhalguni) Nakshatra is in the zodiac ign Leo(Simha)
+43. The 3rd pada of PoorvaFalguni(PoorvaPhalguni or PurvaFalguni or PurvaPhalguni) Nakshatra is in the zodiac ign Leo(Simha)
+44. The 4th pada of PoorvaFalguni(PoorvaPhalguni or PurvaFalguni or PurvaPhalguni) Nakshatra is in the zodiac ign Leo(Simha)
+45. The 1st pada of UttaraFalguni(UttaraPhalguni) Nakshatra is in the zodiac sign Leo(Simha)
+46. The 2nd pada of UttaraFalguni(UttaraPhalguni) Nakshatra is in the zodiac sign Virgo(Kanya)
+47. The 3rd pada of UttaraFalguni(UttaraPhalguni) Nakshatra is in the zodiac sign Virgo(Kanya)
+48. The 4th pada of UttaraFalguni(UttaraPhalguni) Nakshatra is in the zodiac sign Virgo(Kanya)
+49. The 1st pada of Hasta Nakshatra is in the zodiac sign Virgo(Kanya)
+50. The 2nd pada of Hasta Nakshatra is in the zodiac sign Virgo(Kanya)
+51. The 3rd pada of Hasta Nakshatra is in the zodiac sign Virgo(Kanya)
+52. The 4th pada of Hasta Nakshatra is in the zodiac sign Virgo(Kanya)
+53. The 1st pada of Chitra Nakshatra is in the zodiac sign Virgo(Kanya)
+54. The 2nd pada of Chitra Nakshatra is in the zodiac sign Virgo(Kanya)
+55. The 3rd pada of Chitra Nakshatra is in the zodiac sign Libra(Thula)
+56. The 4th pada of Chitra Nakshatra is in the zodiac sign Libra(Thula)
+57. The 1st pada of Swati Nakshatra is in the zodiac sign Libra(Thula)
+58. The 2nd pada of Swati Nakshatra is in the zodiac sign Libra(Thula)
+59. The 3rd pada of Swati Nakshatra is in the zodiac sign Libra(Thula)
+60. The 4th pada of Swati Nakshatra is in the zodiac sign Libra(Thula)
+61. The 1st pada of Vishaka(Vishakha) Nakshatra is in the zodiac sign Libra(Thula)
+62. The 2nd pada of Vishaka(Vishakha) Nakshatra is in the zodiac sign Libra(Thula)
+63. The 3rd pada of Vishaka(Vishakha) Nakshatra is in the zodiac sign Libra(Thula)
+64. The 4th pada of Vishaka(Vishakha) Nakshatra is in the zodiac sign Scorpio(Vrichika)
+65. The 1st pada of Anuradha Nakshatra is in the zodiac sign Scorpio(Vrichika)
+66. The 2nd pada of Anuradha Nakshatra is in the zodiac sign Scorpio(Vrichika)
+67. The 3rd pada of Anuradha Nakshatra is in the zodiac sign Scorpio(Vrichika)
+68. The 4th pada of Anuradha Nakshatra is in the zodiac sign Scorpio(Vrichika)
+69. The 1st pada of Jyestha Nakshatra is in the zodiac sign Scorpio(Vrichika)
+70. The 2nd pada of Jyestha Nakshatra is in the zodiac sign Scorpio(Vrichika)
+71. The 3rd pada of Jyestha Nakshatra is in the zodiac sign Scorpio(Vrichika)
+72. The 4th pada of Jyestha Nakshatra is in the zodiac sign Scorpio(Vrichika)
+73. The 1st pada of Moola Nakshatra is in the zodiac sign Sagittarius(Dhanus)
+74. The 2nd pada of Moola Nakshatra is in the zodiac sign Sagittarius(Dhanus)
+75. The 3rd pada of Moola Nakshatra is in the zodiac sign Sagittarius(Dhanus)
+76. The 4th pada of Moola Nakshatra is in the zodiac sign Sagittarius(Dhanus)
+77. The 1st pada of PoorvaShadha(Purvashadha) Nakshatra is in the zodiac sign Sagittarius(Dhanus)
+78. The 2nd pada of PoorvaShadha(Purvashadha) Nakshatra is in the zodiac sign Sagittarius(Dhanus)
+79. The 3rd pada of PoorvaShadha(Purvashadha) Nakshatra is in the zodiac sign Sagittarius(Dhanus)
+80. The 4th pada of PoorvaShadha(Purvashadha) Nakshatra is in the zodiac sign Sagittarius(Dhanus)
+81. The 1st pada of UttaraShadha Nakshatra is in the zodiac sign Sagittarius(Dhanus)
+82. The 2nd pada of UttaraShadha Nakshatra is in the zodiac sign Capricorn(Makara)
+83. The 3rd pada of UttaraShadha Nakshatra is in the zodiac sign Capricorn(Makara)
+84. The 4th pada of UttaraShadha Nakshatra is in the zodiac sign Capricorn(Makara)
+85. The 1st pada of Shravana Nakshatra is in the zodiac sign Capricorn(Makara)
+86. The 2nd pada of Shravana Nakshatra is in the zodiac sign Capricorn(Makara)
+87. The 3rd pada of Shravana Nakshatra is in the zodiac sign Capricorn(Makara)
+88. The 4th pada of Shravana Nakshatra is in the zodiac sign Capricorn(Makara)
+89. The 1st pada of Dhanistha Nakshatra is in the zodiac sign Capricorn(Makara)
+90. The 2nd pada of Dhanistha Nakshatra is in the zodiac sign Capricorn(Makara)
+91. The 3rd pada of Dhanistha Nakshatra is in the zodiac sign Aquarius(Kumbha)
+92. The 4th pada of Dhanistha Nakshatra is in the zodiac sign Aquarius(Kumbha)
+93. The 1st pada of Shatbhisha Nakshatra is in the zodiac sign Aquarius(Kumbha)
+94. The 2nd pada of Shatbhisha Nakshatra is in the zodiac sign Aquarius(Kumbha)
+95. The 3rd pada of Shatbhisha Nakshatra is in the zodiac sign Aquarius(Kumbha)
+96. The 4th pada of Shatbhisha Nakshatra is in the zodiac sign Aquarius(Kumbha)
+97. The 1st pada of PoorvaBhadrapada Nakshatra is in the zodiac sign Aquarius(Kumbha)
+98. The 2nd pada of PoorvaBhadrapada Nakshatra is in the zodiac sign Aquarius(Kumbha)
+99. The 3rd pada of PoorvaBhadrapada Nakshatra is in the zodiac sign Aquarius(Kumbha)
+100. The 4th pada of PoorvaBhadrapada Nakshatra is in the zodiac sign Pisces(Meena)
+101. The 1st pada of UttaraBhadrapada Nakshatra is in the zodiac sign Pisces(Meena)
+102. The 2nd pada of UttaraBhadrapada Nakshatra is in the zodiac sign Pisces(Meena)
+103. The 3rd pada of UttaraBhadrapada Nakshatra is in the zodiac sign Pisces(Meena)
+104. The 4th pada of UttaraBhadrapada Nakshatra is in the zodiac sign Pisces(Meena)
+105. The 1st pada of Revati Nakshatra is in the zodiac sign Pisces(Meena)
+106. The 2nd pada of Revati Nakshatra is in the zodiac sign Pisces(Meena)
+107. The 3rd pada of Revati Nakshatra is in the zodiac sign Pisces(Meena)
+108. The 4th pada of Revati Nakshatra is in the zodiac sign Pisces(Meena)
+
+Nakshatras in each zodiac signs are defined here,
+1. The zodiac sign Aries(Mesha) has the Nakshatras Ashwini, Bharani and Kritika 
+2. The zodiac sign Taurus(Rishabha) has the Nakshatras Kritika, Rohini, and Mrigshira
+3. The zodiac sign Gemini(Mithuna) has the Nakshatras Mrigshira, Ardra, and Punarvasu 
+4. The zodiac sign Cancer(Kataka) has the Nakshatras Punarvasu, Pushya, and Ashlesha
+5. The zodiac sign Leo(Simha) has the Nakshatras Magha, PoorvaFalguni, and UttaraFalguni 
+6. The zodiac sign Virgo(Kanya) has the Nakshatras UttaraFalguni, Hasta, and Chitra 
+7. The zodiac sign Libra(Thula) has the Nakshatras Chitra, Swati, and Vishakha 
+8. The zodiac sign Scorpio(Vrichika) has the Nakshatras Vishakha, Anuradha, and Jyestha 
+9. The zodiac sign Sagittarius(Dhanus) has the Nakshatras Moola, PoorvaShadha, and UttaraShadha
+10. The zodiac sign Capricorn(Makara)has the Nakshatras UttaraShadha, Shravana, and Dhanistha 
+11. The zodiac sign Aquarius(Kumbha)has the Nakshatras Dhanistha, Shatbhisha, and PoorvaBhadrapada
+12. The zodiac sign Pisces(Meena)has the Nakshatras PoorvaBhadrapada, UttaraBhadrapada, and Revati 

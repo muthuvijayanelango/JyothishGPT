@@ -1,0 +1,12 @@
+Planetary conjunction and planetary aspection are discussed here. 
+When two or more planets are conjoined in the same zodiac sign it is called as planetary conjunction. 
+The result of the conjunction depends on the nature of the planets involved and also depends
+on the zodiac sign in which the conjunction occurs. When the longitude of two planets are within 10 degrees then we can call these two planets are in conjunction.
+
+A planet getting view from the other planets is called aspection. An Aspection and can happen during two scenarios
+1. A planet can aspect an another planet
+2. A planet can aspect a house.
+
+The aspection is always count from the first to sign of the planet that is involved. There are single and mutual Aspection exist between the planets.
+For example a planet A aspect the planet B but where as the planet B doesn't Aspect planet A. This is called single aspection.
+In an another scenario, the planet A is aspecting Planet B and Planet B is also Aspecting Planet A and this is called mutual Aspection.

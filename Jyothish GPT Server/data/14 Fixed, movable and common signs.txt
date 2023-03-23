@@ -1,0 +1,44 @@
+odd signs, even signs, fixed signs(Chara Rashi), movable signs(Sthira Rashi), and common signs(Upaya Rashi) are discussed here. 
+
+First let us see odd and even signs,
+1. The Zodiac sign Aries(Mesha) is odd Sign
+2. The Zodiac sign Taurus(Vrishabha) is even Sign
+3. The Zodiac sign Gemini(Mithuna) is odd Sign
+4. The Zodiac sign Cancer(Kataka) is even Sign
+5. The Zodiac sign Leo(Simha) is odd Sign
+6. The Zodiac sign Virgo(Kanya) is even Sign
+7. The Zodiac sign Libra(Thula) is odd Sign
+8. The Zodiac sign Scorpio(Vrichika) is even Sign
+9. The Zodiac sign Sagittarius(Dhanus) is odd Sign
+10. The Zodiac sign Capricorn(Makara) is even Sign
+11. The Zodiac sign Aquarius(Kumbha) is odd Sign
+12. The Zodiac sign Pisces(Meena) is even Sign
+
+The next we will see male sign and female sign, basically all odd sign are male signs and all even signs are female signs.
+1. The Zodiac sign Aries(Mesha) is male Sign
+2. The Zodiac sign Taurus(Vrishabha) is female Sign
+3. The Zodiac sign Gemini(Mithuna) is male Sign
+4. The Zodiac sign Cancer(Kataka) is female Sign
+5. The Zodiac sign Leo(Simha) is male Sign
+6. The Zodiac sign Virgo(Kanya) is female Sign
+7. The Zodiac sign Libra(Thula) is male Sign
+8. The Zodiac sign Scorpio(Vrichika) is female Sign
+9. The Zodiac sign Sagittarius(Dhanus) is male Sign
+10. The Zodiac sign Capricorn(Makara) is female Sign
+11. The Zodiac sign Aquarius(Kumbha) is male Sign
+12. The Zodiac sign Pisces(Meena) is female Sign
+
+The next we will see Movable signs, Fixed Signs, and Common signs. The movable signs of the Zodiac have a moving nature hence called movable signs. 
+The fixed signs of the zodiac will have a fixed nature and hence called as fixed sign. The common sign will have both movable and fixed characteristics and hence referred as Dual signs
+1. The Zodiac sign Aries(Mesha) is movable Sign
+2. The Zodiac sign Taurus(Vrishabha) is fixed Sign
+3. The Zodiac sign Gemini(Mithuna) is common Sign
+4. The Zodiac sign Cancer(Kataka) is movable Sign
+5. The Zodiac sign Leo(Simha) is fixed Sign
+6. The Zodiac sign Virgo(Kanya) is common Sign
+7. The Zodiac sign Libra(Thula) is movable Sign
+8. The Zodiac sign Scorpio(Vrichika) is fixed Sign
+9. The Zodiac sign Sagittarius(Dhanus) is common Sign
+10. The Zodiac sign Capricorn(Makara) is movable Sign
+11. The Zodiac sign Aquarius(Kumbha) is fixed Sign
+12. The Zodiac sign Pisces(Meena) is common Sign
