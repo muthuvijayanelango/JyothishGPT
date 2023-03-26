@@ -1,12 +1,16 @@
 from flask import Flask
+import yaml
+import env
 #from gevent.pywsgi import WSGIServer
 from langchain import OpenAI
 import os
-import openai
+#print (os.environ.get('OPENAI_API_KEY', 'Specified environment variable is not set.'))
+#print(os.environ)
+#OpenAI.openai_api_key = os.environ.get('OPENAI_API_KEY')
 import logging
+import openai
 import logging.config
-import yaml
-#os.environ['OPENAI_API_KEY'] = open("JyothishGPTServer\\OpenAI_Key.txt", "r").read()
+#os.environ['OPENAI_API_KEY'] = open("OpenAI_Key.txt", "r").read()
 from llama_index.langchain_helpers.chatgpt import ChatGPTLLMPredictor
 #from llama_index import GPTSimpleVectorIndex, SimpleDirectoryReader, LLMPredictor, PromptHelper, QuestionAnswerPrompt, GPTListIndex
 from llama_index import GPTSimpleVectorIndex, QuestionAnswerPrompt, GPTListIndex, readers, LLMPredictor
@@ -37,12 +41,13 @@ QA_PROMPT = QuestionAnswerPrompt(QA_PROMPT_TMPL)
 llm_predictor = ChatGPTLLMPredictor(temperature=0)
 llm_predictor2 = LLMPredictor(llm=OpenAI(temperature=0, model_name="gpt-3.5-turbo"))
 logger = logging.getLogger('My_Logger')
-
+input_index = 'JyothishKT.json'
+index = GPTSimpleVectorIndex.load_from_disk(input_index)
 app = Flask(__name__)
 
 @app.route('/ask_bot/<query>', methods=['GET'])
 def ask_bot(query):
-  input_index = 'JyothishGPTServer\\JyothishKT.json'
+  input_index = 'JyothishKT.json'
   index = GPTSimpleVectorIndex.load_from_disk(input_index)
   while True:
    
@@ -93,6 +98,7 @@ def ask_bot(query):
     return str(FinalAnswer)
 
 # Run Server
-#app.run()
-if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=8080, debug=True)
+if __name__ == '__main__':
+    # This is used when running locally. Gunicorn is used to run the
+    # application on Google App Engine. See entrypoint in app.yaml.
+    app.run(host='127.0.0.1', port=8080, debug=True)
