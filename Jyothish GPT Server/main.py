@@ -1,24 +1,14 @@
 from flask import Flask
-import yaml
 import env
-#from gevent.pywsgi import WSGIServer
 from langchain import OpenAI
 import os
-#print (os.environ.get('OPENAI_API_KEY', 'Specified environment variable is not set.'))
-#print(os.environ)
-#OpenAI.openai_api_key = os.environ.get('OPENAI_API_KEY')
 import logging
 import openai
 import logging.config
-#os.environ['OPENAI_API_KEY'] = open("OpenAI_Key.txt", "r").read()
 from llama_index.langchain_helpers.chatgpt import ChatGPTLLMPredictor
 #from llama_index import GPTSimpleVectorIndex, SimpleDirectoryReader, LLMPredictor, PromptHelper, QuestionAnswerPrompt, GPTListIndex
 from llama_index import GPTSimpleVectorIndex, QuestionAnswerPrompt, GPTListIndex, readers, LLMPredictor
-#openai.api_key = open("JyothishGPTServer\\OpenAI_Key.txt", "r").read()
-#openai.api_key = os.environ["OPENAI_API_KEY"]
-#openai.api_key = yaml.safe_load(open(gcloud_env_variables.yaml))
 index = ""
-#directory_path = "JyothishGPTServer\"
 query = ""
 Newquery = ""
 FirstResponse =""
@@ -41,8 +31,6 @@ QA_PROMPT = QuestionAnswerPrompt(QA_PROMPT_TMPL)
 llm_predictor = ChatGPTLLMPredictor(temperature=0)
 llm_predictor2 = LLMPredictor(llm=OpenAI(temperature=0, model_name="gpt-3.5-turbo"))
 logger = logging.getLogger('My_Logger')
-input_index = 'JyothishKT.json'
-index = GPTSimpleVectorIndex.load_from_disk(input_index)
 app = Flask(__name__)
 
 @app.route('/ask_bot/<query>', methods=['GET'])
