@@ -1,6 +1,7 @@
 from flask import Flask
 import env
 from langchain import OpenAI
+from langchain.chat_models import ChatOpenAI
 import os
 import logging
 import openai
@@ -29,7 +30,8 @@ QA_PROMPT_TMPL = (
     )
 QA_PROMPT = QuestionAnswerPrompt(QA_PROMPT_TMPL)
 llm_predictor = ChatGPTLLMPredictor(temperature=0)
-llm_predictor2 = LLMPredictor(llm=OpenAI(temperature=0, model_name="gpt-3.5-turbo"))
+#llm_predictor2 = LLMPredictor(llm=OpenAI(temperature=0, model_name="gpt-3.5-turbo"))
+llm_predictor2 = LLMPredictor(llm=ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo"))
 logger = logging.getLogger('My_Logger')
 app = Flask(__name__)
 
