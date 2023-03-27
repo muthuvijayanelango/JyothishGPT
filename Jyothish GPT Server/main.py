@@ -7,6 +7,12 @@ import logging
 import openai
 import logging.config
 from llama_index.langchain_helpers.chatgpt import ChatGPTLLMPredictor
+#import cachestore
+#import cacheretrieve
+import sys
+import gcs_json_read
+import json
+import sys
 #from llama_index import GPTSimpleVectorIndex, SimpleDirectoryReader, LLMPredictor, PromptHelper, QuestionAnswerPrompt, GPTListIndex
 from llama_index import GPTSimpleVectorIndex, QuestionAnswerPrompt, GPTListIndex, readers, LLMPredictor
 index = ""
@@ -17,6 +23,7 @@ Outputtext = ""
 OldOutputtext = ""
 FinalAnswer = ""
 completion = ""
+cacheresponse = ""
 ChatAIResponsePrefix = "I am not trained for this data in Jyothish AI model. However, I am giving below answer from ChatGPT Language AI Model"
 QA_PROMPT_TMPL = (
         "Answer the question as truthfully as possible using the provided text, and if the answer is not contained "
@@ -34,11 +41,22 @@ llm_predictor = ChatGPTLLMPredictor(temperature=0)
 llm_predictor2 = LLMPredictor(llm=ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo"))
 logger = logging.getLogger('My_Logger')
 app = Flask(__name__)
-
+#query = 'what is sapthamsa in divisional charts'
+#cacheresponse = gcs_json_read.RetrieveCache(query)
+print("Query not found in the cache file")
 @app.route('/ask_bot/<query>', methods=['GET'])
 def ask_bot(query):
-  input_index = 'JyothishKT.json'
-  index = GPTSimpleVectorIndex.load_from_disk(input_index)
+  #print("working folder is" + str(sys.path))
+  print("User message query is " +query)
+  cacheresponse = gcs_json_read.RetrieveCache(query)
+    
+  if(len(cacheresponse) != 0):
+     print("Response from Cache file")
+     return cacheresponse
+  else:
+    print("unable to read from Cache file")
+    input_index = 'JyothishKT.json'
+    index = GPTSimpleVectorIndex.load_from_disk(input_index)
   while True:
    
     #Get the first response 
@@ -85,6 +103,8 @@ def ask_bot(query):
              
     if(FinalAnswer == "I don't know."):
       FinalAnswer = FinalAnswer + ". I am not trained for this query in Jyothish GPT. Try refining your query with more appropriate context"            
+      print(FinalAnswer)
+    #cachestore.StorefileinCache(query,FinalAnswer)
     return str(FinalAnswer)
 
 # Run Server
