@@ -7,10 +7,9 @@ import logging
 import openai
 import logging.config
 from llama_index.langchain_helpers.chatgpt import ChatGPTLLMPredictor
-#import cachestore
-#import cacheretrieve
+import cacheretrievefire
+#import userquerystorefire
 import sys
-import gcs_json_read
 import json
 import sys
 #from llama_index import GPTSimpleVectorIndex, SimpleDirectoryReader, LLMPredictor, PromptHelper, QuestionAnswerPrompt, GPTListIndex
@@ -48,7 +47,7 @@ print("Query not found in the cache file")
 def ask_bot(query):
   #print("working folder is" + str(sys.path))
   print("User message query is " +query)
-  cacheresponse = gcs_json_read.RetrieveCache(query)
+  cacheresponse = cacheretrievefire.RetrieveCache(query)
     
   if(len(cacheresponse) != 0):
      print("Response from Cache file")
@@ -100,11 +99,12 @@ def ask_bot(query):
               logger.info(f"Response: {response}")
               print ("\nJyothish GPT says: \n\n" + response.response + "\n\n\n")
               FinalAnswer = response.response
+        cacheretrievefire.Storeuserquery(query,FinalAnswer)      
              
     if(FinalAnswer == "I don't know."):
       FinalAnswer = FinalAnswer + ". I am not trained for this query in Jyothish GPT. Try refining your query with more appropriate context"            
       print(FinalAnswer)
-    #cachestore.StorefileinCache(query,FinalAnswer)
+    
     return str(FinalAnswer)
 
 # Run Server
