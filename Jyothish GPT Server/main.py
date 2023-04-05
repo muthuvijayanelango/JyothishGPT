@@ -102,7 +102,7 @@ def ask_bot(query):
             #   print ("\nJyothish GPT says: \n\n" + response.response + "\n\n\n")
             #   FinalAnswer = response.response
             Findcode2 = response2.response.find('Refined answer')
-            Findcode3 = response2.response.find('the original answer "I do not know"')
+            Findcode3 = response2.response.find('I do not know')
             logger.info(f"Findcode3: {Findcode3}")
             if ((Findcode3) != -1):
                 Secondresponse = "I do not know."
