@@ -26,7 +26,7 @@ cacheresponse = ""
 ChatAIResponsePrefix = "I am not trained for this data in Jyothish AI model. However, I am giving below answer from ChatGPT Language AI Model"
 QA_PROMPT_TMPL = (
         "Answer the question as truthfully as possible using the provided text, and if the answer is not contained "
-        "within the text below, say \"I don't know\" \n"
+        "within the text below, say \"I do not know\" \n"
         "---------------------\n"
         "Context:\n"
         "{context_str}"
@@ -37,7 +37,7 @@ QA_PROMPT_TMPL = (
 QA_PROMPT = QuestionAnswerPrompt(QA_PROMPT_TMPL)
 llm_predictor = ChatGPTLLMPredictor(temperature=0)
 #llm_predictor2 = LLMPredictor(llm=OpenAI(temperature=0, model_name="gpt-3.5-turbo"))
-llm_predictor2 = LLMPredictor(llm=ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo"))
+llm_predictor2 = LLMPredictor(llm=ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo", max_tokens=500))
 logger = logging.getLogger('My_Logger')
 app = Flask(__name__)
 #query = 'what is sapthamsa in divisional charts'
@@ -59,7 +59,8 @@ def ask_bot(query):
   while True:
    
     #Get the first response 
-    response = index.query(query,text_qa_template = QA_PROMPT, similarity_top_k = 2, response_mode="compact")
+    #response = index.query(query,text_qa_template = QA_PROMPT, similarity_top_k = 2, response_mode="compact")
+    response = index.query(query,text_qa_template = QA_PROMPT, similarity_top_k = 2, llm_predictor = llm_predictor2, response_mode="compact")
     logger.info("---------------------")
     logger.info(f"Query: {query}")
     logger.info(f"Response: {response}")
@@ -85,23 +86,43 @@ def ask_bot(query):
             response2 = index2.query(query, text_qa_template = REFINE_PROMPT)
             logger.info(f"Response: {response2}")
             #To check the refined answer
-            if(response.response == "I don't know."):
-               Findcode2 = response2.response.find('The answer is')
+            #To check the refined answer
+            # if(response.response == "I don't know."):
+            #    Findcode2 = response2.response.find('The answer is')
+            # else:
+            #   Findcode2 = response2.response.find('Refined answer')
+            # #If refined answer if good, display to the user  
+            # if ((Findcode2) != -1):
+            #    logger.info(f"Response: {response2}")
+            #    print ("\nJyothish GPT says: \n\n" + response2.response + "\n\n\n")
+            #    FinalAnswer = response2.response
+            # #Else give the original answer to the user  
+            # else:
+            #   logger.info(f"Response: {response}")
+            #   print ("\nJyothish GPT says: \n\n" + response.response + "\n\n\n")
+            #   FinalAnswer = response.response
+            Findcode2 = response2.response.find('Refined answer')
+            Findcode3 = response2.response.find('the original answer "I do not know"')
+            logger.info(f"Findcode3: {Findcode3}")
+            if ((Findcode3) != -1):
+                Secondresponse = "I do not know."
             else:
-              Findcode2 = response2.response.find('Refined answer')
-            #If refined answer if good, display to the user  
-            if ((Findcode2) != -1):
-               logger.info(f"Response: {response2}")
-               print ("\nJyothish GPT says: \n\n" + response2.response + "\n\n\n")
-               FinalAnswer = response2.response
-            #Else give the original answer to the user  
+                Secondresponse = ""
+            if(response.response == "I do not know."):
+                if(Secondresponse == "I do not know."):
+                    FinalAnswer = response.response
+                else:
+                    FinalAnswer = response2.response
+                    logger.info(f"Response: {response2}")
             else:
-              logger.info(f"Response: {response}")
-              print ("\nJyothish GPT says: \n\n" + response.response + "\n\n\n")
-              FinalAnswer = response.response
+                if ((Findcode2) != -1):
+                    FinalAnswer = response2.response
+                else:
+                    FinalAnswer = response.response
+
         cacheretrievefire.Storeuserquery(query,FinalAnswer)      
              
-    if(FinalAnswer == "I don't know."):
+    if(FinalAnswer == "I do not know."):
       FinalAnswer = FinalAnswer + ". I am not trained for this query in Jyothish GPT. Try refining your query with more appropriate context"            
       print(FinalAnswer)
     
